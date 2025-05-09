@@ -96,7 +96,7 @@ a:focus {
 }
 
 .sub_page .header_section .header_bottom {
-  background-color: #003471;
+  background-color: #da7426;
 }
 
 .header_section {
@@ -105,7 +105,7 @@ a:focus {
 
 .header_section .header_top {
   padding: 15px 0;
-  background-color: #003471;
+  background-color: #da7426;
 }
 
 .header_section .header_top .header_top_container {
@@ -475,7 +475,7 @@ a:focus {
   background-color: #ffffff;
   opacity: 1;
   border-radius: 100%;
-  color: #003471;
+  color: #da7426;
   font-size: 14px;
   -webkit-box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.25);
           box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.25);
@@ -536,7 +536,7 @@ a:focus {
 }
 
 .portfolio_section {
-  background-color: #003471;
+  background-color: #da7426;
   color: #ffffff;
   padding-top: 45px;
 }
@@ -670,7 +670,7 @@ a:focus {
 }
 
 .portfolio_section .portfolio_carousel .owl-nav button:hover {
-  background-color: #003471;
+  background-color: #da7426;
   color: #ffffff;
 }
 
@@ -790,7 +790,7 @@ a:focus {
 }
 
 .contact_section .form_container {
-  background-color: #003471;
+  background-color: #da7426;
   padding: 45px;
 }
 
@@ -963,7 +963,7 @@ a:focus {
 }
 
 .client_section .carousel-indicators li.active {
-  background-color: #003471;
+  background-color: #da7426;
 }
 
 /* info section */
